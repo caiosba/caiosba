@@ -9,5 +9,3 @@ You can find out more in the website: https://ca.ios.ba :)
 <a href="https://github.com/caiosba">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiosba&show_icons=true&line_height=24&count_private=true&include_all_commits=true&hide_title=true&bg_color=FEFEFE&icon_color=33BB44&title_color=33bb44" alt="Caio Almeida GitHub stats" /><br />
 </a>
-
-<sub><sup>*(PS: The grade above uses the [Japanese system](https://en.wikipedia.org/wiki/Academic_grading_in_Japan)), where "S" is the top grade*</sub></sup>
