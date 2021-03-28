@@ -1,4 +1,4 @@
-Caio Almeida (a.k.a. caiosba) is a **senior software engineer** with 15 years of experience, working mostly with **Ruby On Rails and JavaScript**.
+Caio Almeida (a.k.a. caiosba) is a **senior software engineer** with 15 years of experience, working mostly with **Ruby On Rails and JavaScript** (mostly React.js / Relay lately).
 
 He's a **[Certified Ruby Programmer](https://www.credential.net/fhs4mrsf)**, holds **Bachelor and Master degrees on Computer Science from [Federal University of Bahia](https://www.ufba.br), Brazil** and is currently a special student of the **PhD** program from that same University. He's **Director of Software Engineering at [Meedan](https://meedan.com)**, a 15 years old open source software organization based in **San Francisco, California, USA**, where he works since 2011.
 
