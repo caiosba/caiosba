@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Slack Integrations by Caio SBA</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <style type="text/css">
+    html {
+      padding: 20px;
+    }
+    img {
+      padding: 1px;
+      margin: 10px 0;
+      border: 1px solid #333;
+    }
+    body {
+      font-size: 2em;
+    }
+    h1 {
+      width: 392px;
+      height: 149px;
+      display: block;
+      text-indent: -5000em;
+      background: transparent url(slack.png);
+    }
+    h2 {
+      color: #E01563;
+    }
+    li {
+      display: block;
+      margin-top: 80px;
+    }
+    </style>
+  </head>
+  <body>
+    <h1>Slack</h1>
+    <p>Hello! This page lists some integrations that I wrote to the awesome <a href="https://slack.com" target="_blank">Slack</a>.
+    They are also listed on the <a href="https://slack.com/integrations" target="_blank">Slack integrations page</a>.
+    </p>
+    <ol>
+      <li>
+        <h2 id="draw">1. Slack Draw</h2>
+        <p>A Google Chrome extension to draw on Slack and share the drawings with the team.</p>
+        <img src="draw.png" alt="" />
+        <p>Code: <a href="https://github.com/caiosba/slack-draw" target="_blank">https://github.com/caiosba/slack-draw</a></p>
+      </li>
+      <li>
+        <h2 id="webistrano">2. Slack Webistrano</h2>
+        <p>A Ruby On Rails plugin for <a href="https://github.com/peritor/webistrano" target="_blank">Webistrano</a> to send deployment updates to Slack channels.</p>
+        <img src="webistrano.png" alt="" />
+        <p>Code: <a href="https://github.com/caiosba/slack-webistrano" target="_blank">https://github.com/caiosba/slack-webistrano</a></p>
+      </li>
+      <li>
+        <h2 id="ci">3. Slack Rails Continuous Integration</h2>
+        <p>A Git hook (Bash script) that runs the test suite of a Ruby On Rails application after each commit and posts the result on a Slack channel - basically, a continuous integration solution cheaper than Travis (but not so good).</p>
+        <img src="ci.png" alt="" />
+        <p>Code: <a href="https://github.com/caiosba/slack-rails-ci" target="_blank">https://github.com/caiosba/slack-rails-ci</a></p>
+      </li>
+      <li>
+        <h2 id="sitp">4. Slack Issue Tracker Parser</h2>
+        <p>A Google Chrome extension to turn issue tracker numbers into links. For example, you can configure it to turn issues numbers (e.g.: #1234) into links to the issue on your instance of Redmine, Mantis, etc.</p>
+        <img src="sitp.png" alt="" />
+        <p>Code: <a href="https://github.com/caiosba/slack-issue-tracker-parser" target="_blank">https://github.com/caiosba/slack-issue-tracker-parser</a></p>
+      </li>
+      <li>
+        <h2 id="timezone">5. Slack Timezone Converter</h2>
+        <p>An integration for Slack that converts any time string in a message to all timezones where the team is. It runs as a software on a server listening for new messages.</p>
+        <img src="timezone.png" alt="" />
+        <p>Code: <a href="https://github.com/caiosba/slack-timezone-converter" target="_blank">https://github.com/caiosba/slack-timezone-converter</a></p>
+      </li>
+    </ol>
+  </body>
+</html>
