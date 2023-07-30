@@ -8,4 +8,4 @@ You can find out more at the website: https://ca.ios.ba :)
 
 Want to get in touch? Send an e-mail to c@ios.ba :)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=caiosba) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiosba&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=caiosba&v=1) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiosba&show_icons=true&v=1)
