@@ -1,11 +1,11 @@
-Caio Almeida (a.k.a. caiosba) is a **senior software engineer** with 15 years of experience, working mostly with **Ruby On Rails and JavaScript** (mostly React.js / Relay lately).
+Hello! I'm a **senior software engineer** with more than 15 years of experience, primarily working with **Ruby On Rails and JavaScript / React.js** lately.
 
-He's a **[Certified Ruby Programmer](https://www.credential.net/fhs4mrsf)**, holds **Bachelor and Master degrees on Computer Science from [Federal University of Bahia](https://www.ufba.br), Brazil** and is currently a special student of the **PhD** program from that same University.
+I'm a **[Certified Ruby Programmer](https://www.credential.net/fhs4mrsf)**, I hold **bachelor's and master's degrees in computer science** from the Federal University of Bahia, Brazil, and I'm currently a special student in the PhD program at the same university.
 
-In 2018, he was one of the 5 software developers selected to join [Data4Change](https://www.data4chan.ge/), a data visualization workshop about human rights on the middle east that took place in Beirut, Lebanon. He's currently the **[Top 1 Ruby developer from Brazil and Top 10 in the world according to CodersRank](https://profile.codersrank.io/leaderboard/developer?technology=Ruby)**. Collaborates as a developer to open source projects like Ruby On Rails, NPM, Drupal, Noosfero, Moodle, Inkscape and others, and presented in conferences like RubyConf Portugal, Rubyfuza (in South Africa), SIBGRAPI (in Peru), PROPOR (in Portugal), Tech & Check (at Duke University in the United States), CredCon (in the United States), Mexico on Rails (in Mexico), Media Party (in Argentina), Mediathon (in Peru), RubyConf Brazil, WebMedia, W3C Web Conference, International Free Software Forum, International Free Software Workshop, JSDay, among others.
+In 2018, I was one of the five software developers selected to join [Data4Change](https://www.data4chan.ge/), a data visualization workshop on human rights in the Middle East that took place in Beirut, Lebanon. I'm currently ranked as the **[Top 1 Ruby developer in Brazil and Top 10 in the world, according to CodersRank](https://profile.codersrank.io/leaderboard/developer?technology=Ruby)**. I also collaborate as a developer on open source projects such as Ruby On Rails, NPM, Drupal, Noosfero, Moodle, Inkscape, and others, and I have presented at conferences including RubyConf Portugal, Rubyfuza (South Africa), SIBGRAPI (Peru), PROPOR (Portugal), Tech & Check (Duke University in the United States), CredCon (United States), Mexico on Rails (Mexico), Media Party (Argentina), Mediathon (Peru), RubyConf Brazil, WebMedia, W3C Web Conference, International Free Software Forum, International Free Software Workshop, JSDay, Campus Party, among others.
 
 You can find out more at the website: https://ca.ios.ba :)
 
-Want to get in touch? Send an e-mail to c@ios.ba :)
+Want to get in touch? Send an email to c@ios.ba :)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=caiosba&v=1) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiosba&show_icons=true&v=1)
